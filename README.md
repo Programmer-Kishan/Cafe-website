@@ -1,10 +1,10 @@
 # Cafe Website
 
 ## Project Description
-This is a cafe website which is famous for there pasta.
+This is a cafe website which is famous for there pasta. Only Frontend of the website is designed.
 
 ## Technologies Used
-HTML, CSS, JavaScript
+HTML, CSS
 
 ## Installation
 
