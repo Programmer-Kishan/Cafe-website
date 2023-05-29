@@ -23,4 +23,5 @@ If Your are not using VS code simply click on the index.html file and it will op
 ![Screenshot (33)](https://github.com/Programmer-Kishan/Cafe-website/assets/69651170/ee4826bf-ff40-4481-80b6-fd31ee4b024e)
 ![Screenshot (34)](https://github.com/Programmer-Kishan/Cafe-website/assets/69651170/1b35b5b7-b882-42e9-b295-1a629c655fc5)
 ![Screenshot (35)](https://github.com/Programmer-Kishan/Cafe-website/assets/69651170/e1a118ac-465e-4fc6-9d98-05e6bfa561aa)
-![Screenshot (36)](https://github.com/Programmer-Kishan/Cafe-website/assets/69651170/cf11d270-6dff-4a07-88f5-67a5190d3b28)
+![Screenshot (36)](https://github.com/Programmer-Kishan/Cafe-website/assets/69651170/edff5a39-e1ec-4e37-a5c0-a105a5954051)
+
